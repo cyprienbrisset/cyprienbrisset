@@ -1,5 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on devellop my skills
-- 🌱 I’m currently learning Angular
-
+Bienvenue sur mon profil GitHub ! Ici, vous trouverez mes projets de programmation, mes contributions à d'autres projets open source et mes expérimentations avec différents langages de programmation. Je suis passionné par la technologie et l'innovation, et j'aime travailler sur des projets qui ont un impact réel sur le monde. N'hésitez pas à parcourir mes projets et à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles. Merci d'avance pour votre intérêt !
